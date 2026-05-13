@@ -1,10 +1,10 @@
 {
-  "site_name": "等我翻个身",
+  "site_name": "NodeGet Status",
   "site_logo": "",
-  "footer": "等我翻个身",
+  "footer": "Powered by NodeGet",
   "site_tokens": [
     {
-      "name": "等我翻个身",
+      "name": "main_server",
       "backend_url": "wss://api.1233345.xyz",
       "token": "HYA8A6p28q5ek6Rz:VPfb0zwWkltCuTgw7VC6nc6USyTueW5e"
     }
