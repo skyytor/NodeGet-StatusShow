@@ -38,9 +38,9 @@
   },
   "site_tokens": [
     {
-      "name": "master server node 1",
-      "backend_url": "wss://your-backend.example.com",
-      "token": "YOUR_TOKEN_HERE"
+      "name": "等我翻个身",
+      "backend_url": "wss:api.1233345.xyz",
+      "token": "yLxGbHmWzJf6yxsv:R7fhEVfj4tBiJYTip0bMN1pj50FjK4fh"
     }
   ],
   "version": "will be auto filled using version in package.json",
